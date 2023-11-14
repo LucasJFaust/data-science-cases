@@ -1,5 +1,6 @@
 # bibliotecas_py
-
+# Repositório com cases de estudo de bibliotecas no python
+# Abaixo um exemplo da descrição do Case 02 de varejo:
 # O dataset de varejo que temos em mãos é composto por informações de vendas de uma loja virtual que atua em todo o território nacional, vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de venda, como marketplace, loja própria, entre outros.
 
 Premissas de negócio:
